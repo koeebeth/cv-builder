@@ -1,6 +1,8 @@
 # CV Builder
 
-![Preview](<Screenshot 2023-09-02 at 01.14.55.png>)
+![Preview](<image.png>)
+
+**Live preview [here](https://brilliant-semolina-30d843.netlify.app/)**
 
 ## CV Builder made with React for the assignment of [The Odin Project](https://www.theodinproject.js)
 
